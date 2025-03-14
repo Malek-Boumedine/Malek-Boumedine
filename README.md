@@ -45,13 +45,14 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 
 **Big Data & Ingénierie :**
 
-![ETL](https://img.shields.io/badge/ETL-%23FFA500.svg)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)
-![Hadoop HDFS](https://img.shields.io/badge/Hadoop-HDFS-66CCFF?logo=hadoop&logoColor=white)
-![Azure Data Lake Storage](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?logo=microsoftazure&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-green.svg)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg)
+![ETL](https://img.shields.io/badge/ETL-%23FFA500.svg?style=flat-square)
+![Talend](https://img.shields.io/badge/Talend-%2300C4CC.svg?style=flat-square&logo=talend&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Hadoop HDFS](https://img.shields.io/badge/Hadoop-HDFS-66CCFF?style=flat-square&logo=hadoop&logoColor=white)
+![Azure Data Lake Storage](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-green.svg?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg?style=flat-square)
 
 **Bases de Données & ORMs :**
 
