@@ -22,16 +22,16 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 
-**Frameworks & Outils :**
+**Bases de Données & ORMs :**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-green.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23F8DC75.svg)
-![Pytest](https://img.shields.io/badge/Pytest-blueviolet.svg)
-![Gradio](https://img.shields.io/badge/Gradio-2E86C1?logo=gradio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red.svg?style=flat-square)
+![Modélisation BDD](https://img.shields.io/badge/Mod%C3%A9lisation%20BDD-%230072C6.svg?style=flat&logo=data&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-yellowgreen.svg?style=flat-square)
 
 **Machine Learning & IA :**
 
@@ -54,16 +54,16 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blueviolet.svg?style=flat-square)
 
-**Bases de Données & ORMs :**
+**Frameworks & Outils :**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red.svg?style=flat-square)
-![Modélisation BDD](https://img.shields.io/badge/Mod%C3%A9lisation%20BDD-%230072C6.svg?style=flat&logo=data&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-yellowgreen.svg?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-green.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23F8DC75.svg)
+![Pytest](https://img.shields.io/badge/Pytest-blueviolet.svg)
+![Gradio](https://img.shields.io/badge/Gradio-2E86C1?logo=gradio&logoColor=white)
 
 **Cloud & DevOps :**
 
