@@ -91,11 +91,11 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 
 # Formations actuelles et récentes
 
-| Année              | Formation                                                     | Établissement                  |
-|--------------------|---------------------------------------------------------------|--------------------------------|
-| 2024 - 2025        | Développeur Data & IA                                         | École Microsoft Simplon Lille  |
-| 2024               | Formation Data Engineer                                       | M2i Lille                      |
-| 2023 - 2024        | Développeur en Cybersécurité                                  | EPSI Lille                     |
+| Année              | Formation                                                     | Établissement                     |
+|--------------------|---------------------------------------------------------------|-----------------------------------|
+| 2024 - 2025        | Développeur Data & IA                                         | École Microsoft by Simplon Lille  |
+| 2024               | Formation Data Engineer                                       | M2i Lille                         |
+| 2023 - 2024        | Développeur en Cybersécurité                                  | EPSI Lille                        |
 
 ---
 
