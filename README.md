@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Malek BOUMEDINE !
+# Salut, je suis Malek !
 
 **Futur Développeur Data & Intelligence Artificielle | Passionné par l’ingénierie des données, la Tech et IA**
 
