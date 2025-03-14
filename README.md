@@ -1,8 +1,5 @@
-# Salut, je suis Malek !
+## Salut, je suis Malek !
 
-**Futur Développeur Data & Intelligence Artificielle | Passionné par l’ingénierie des données, la Tech et IA**
-
----
 
 # À propos de moi
 
