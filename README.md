@@ -82,6 +82,7 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-%230072C6.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC4225?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -91,11 +92,11 @@ Mon parcours atypique, passant des études en STAPS et en entraînement et physi
 
 # Formations actuelles et récentes
 
-| Année              | Formation                                                     | Établissement                     |
-|--------------------|---------------------------------------------------------------|-----------------------------------|
-| 2024 - 2025        | Développeur Data & IA                                         | École Microsoft by Simplon Lille  |
-| 2024               | Formation Data Engineer                                       | M2i Lille                         |
-| 2023 - 2024        | Développeur en Cybersécurité                                  | EPSI Lille                        |
+| Année              | Formation                                                     | Établissement                  |
+|--------------------|---------------------------------------------------------------|--------------------------------|
+| 2024 - 2025        | Développeur Data & IA                                         | École Microsoft Simplon Lille  |
+| 2024               | Formation Data Engineer                                       | M2i Lille                      |
+| 2023 - 2024        | Développeur en Cybersécurité                                  | EPSI Lille                     |
 
 ---
 
